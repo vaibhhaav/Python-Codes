@@ -1,4 +1,4 @@
-current_tution_fee = int(input("Enter the current tution fees:  "))
+current_tution_fee = int(input("Enter the current tution fees: "))
 increase_rate = 7/100 # 7%
 double = current_tution_fee * 2
 year = 0
